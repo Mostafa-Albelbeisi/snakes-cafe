@@ -1,6 +1,7 @@
 # LAB - Class 01
 
 ## Project: snakes cafe
+version: **0.2**
 
 ### Author: Mostafa Albelbeisi
 
@@ -11,7 +12,7 @@
 **How to initialize/run your application (where applicable)**
 python3 snakes_cafe.py
 
-[Snack cafe](vscode-remote://wsl%2Bubuntu/home/mostafa/snakes-cafe/snakes_cafe.py)
+[snakes cafe](vscode-remote://wsl%2Bubuntu/home/mostafa/snakes-cafe/snakes_cafe.py)
 
 ### How to use your library (where applicable)
 
