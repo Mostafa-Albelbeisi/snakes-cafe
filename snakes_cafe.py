@@ -1,9 +1,10 @@
 
 if __name__ == "__main__" :
     
-    our_menu = ("Wings", "Cookies", "Spring Rools",
-                "Salmon", "Steak", "Meat Tornado", "A literal Garden",
-                "Ice Cream", "Cake", "Pie", "Coffee", "Tea", "Unicorn Tears")
+    our_menu = ("Wings", "Cookies", "Spring Rolls",
+                "Salmon", "Steak", "Meat Tornado", "A Literal Garden",
+                "Ice Cream", "Cake", "Pie",
+                 "Coffee", "Tea", "Unicron Tears")
 
 print('''
          **************************************
@@ -50,7 +51,7 @@ MENU = '''
 user_order = {}
 print(MENU)
 while True : 
-        order = input("> ").capitalize()
+        order = input("> ").title()
         if order in our_menu:
             user_order[order] = user_order.get(order, 0) + 1
                     

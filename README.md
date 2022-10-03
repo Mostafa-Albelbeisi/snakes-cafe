@@ -1,7 +1,7 @@
 # LAB - Class 01
 
 ## Project: snakes cafe
-version: **0.2**
+version: **0.3**
 
 ### Author: Mostafa Albelbeisi
 
